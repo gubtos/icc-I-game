@@ -17,8 +17,16 @@ Run "Jogo.exe" file.
 * [SDL](www.libsdl.org) - The graphic library used
 
 ## Screenshots
+* Menu
+
 ![Menu](https://raw.githubusercontent.com/gubtos/icc-I-game/master/Screenshots/menu.PNG)
+
+* Map
+
 ![Map](https://raw.githubusercontent.com/gubtos/icc-I-game/master/Screenshots/map.PNG)
+
+* Level 2
+
 ![Level 2](https://raw.githubusercontent.com/gubtos/icc-I-game/master/Screenshots/level2.PNG)
 
 ## Authors
