@@ -37,4 +37,4 @@ Run "Jogo.exe" file.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://raw.githubusercontent.com/gubtos/icc-I-game/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://raw.githubusercontent.com/gubtos/icc-I-game/master/LICENSE) file for details
