@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1390846248 source:c:\users\avell.avell-pc.001\desktop\remake\código fonte\main.c
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	"header.c"
+
+1390843049 c:\users\avell.avell-pc.001\desktop\remake\código fonte\header.c
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+
+1372082291 source:c:\users\avell.avell-pc.001\desktop\remake\código fonte\maps.c
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<stdio.h>
+	"header.c"
+
+1390847789 source:c:\users\avell.avell-pc.001\desktop\remake\código fonte\menu.c
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<stdio.h>
+	<stdlib.h>
+	"header.c"
+
+1372082289 source:c:\users\avell.avell-pc.001\desktop\remake\código fonte\physics.c
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<stdio.h>
+	<math.h>
+	"header.c"
+
+1375655567 source:c:\users\avell.avell-pc.001\desktop\remake\código fonte\render.c
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"header.c"
+
+1390843049 source:c:\users\avell.avell-pc.001\desktop\remake\código fonte\header.c
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+

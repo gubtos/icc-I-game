@@ -1,0 +1,157 @@
+TEXTURE 0:
+	ANIMATED: 8;
+	FRAMENUMBER: 10;
+	INTERVAL: 4;
+	COLLIDABLE: 0;
+	LAYER: 0;
+	FRAMES: air01.png,air02.png,air03.png,air04.png,air05.png,air06.png,air07.png,air08.png,air09.png,air10.png;
+
+
+TEXTURE 1:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 0;
+	LAYER: 0;
+	FRAMES: backbuilding01.png;
+
+TEXTURE G:
+	ANIMATED: 6;
+	FRAMENUMBER: 5;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: grass01.png,grass02.png,grass03.png,grass04.png,grass05.png;
+
+TEXTURE B:
+	ANIMATED: 1;
+	FRAMENUMBER: 3;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: earth01.png,earth02.png,earth03.png;
+
+TEXTURE I:
+	ANIMATED: 0;
+	FRAMENUMBER: 3;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: iron00.png,iron01.png,iron02.png;
+
+TEXTURE Q:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: grassstairwayleft01.png;
+
+TEXTURE q:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: grassstairwayright01.png;
+
+TEXTURE H:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: grassstairwaylefthelp01.png;
+
+TEXTURE R:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: musgoright01.png;
+
+TEXTURE L:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: musgoleft01.png;
+
+TEXTURE C:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: building01.png;
+
+TEXTURE c:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: buildingleft01.png;
+
+TEXTURE d:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: buildingright01.png;
+
+TEXTURE r:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: roof01.png;
+
+TEXTURE w:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: window01.png;
+
+TEXTURE i:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: building01.png;
+
+TEXTURE F:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: rock_e00.png,rock_e01.png;
+
+TEXTURE f:
+	ANIMATED: 1;
+	FRAMENUMBER: 1;
+	INTERVAL: 0;
+	COLLIDABLE: 1;
+	LAYER: 1;
+	FRAMES: rock_d00.png,rock_d01.png;
+
+TEXTURE 2:
+	ANIMATED: 1;
+	FRAMENUMBER: 10;
+	INTERVAL: 0;
+	COLLIDABLE: 0;
+	LAYER: 0;
+	FRAMES: airnight00.png,airnight01.png,airnight02.png,airnight03.png,airnight04.png,airnight05.png,airnight06.png,airnight07.png,airnight08.png,airnight09.png;
+
+
+
+
+

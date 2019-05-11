@@ -1,0 +1,150 @@
+CARREGANDO textures.txt
+Carregando imagem: ./textures/air01.png
+Carregando imagem: ./textures/air02.png
+Carregando imagem: ./textures/air03.png
+Carregando imagem: ./textures/air04.png
+Carregando imagem: ./textures/air05.png
+Carregando imagem: ./textures/air06.png
+Carregando imagem: ./textures/air07.png
+Carregando imagem: ./textures/air08.png
+Carregando imagem: ./textures/air09.png
+Carregando imagem: ./textures/air10.png
+Carregando imagem: ./textures/backbuilding01.png
+Carregando imagem: ./textures/grass01.png
+Carregando imagem: ./textures/grass02.png
+Carregando imagem: ./textures/grass03.png
+Carregando imagem: ./textures/grass04.png
+Carregando imagem: ./textures/grass05.png
+Carregando imagem: ./textures/earth01.png
+Carregando imagem: ./textures/earth02.png
+Carregando imagem: ./textures/earth03.png
+Carregando imagem: ./textures/iron00.png
+Carregando imagem: ./textures/iron01.png
+Carregando imagem: ./textures/iron02.png
+Carregando imagem: ./textures/grassstairwayleft01.png
+Carregando imagem: ./textures/grassstairwayright01.png
+Carregando imagem: ./textures/grassstairwaylefthelp01.png
+Carregando imagem: ./textures/musgoright01.png
+Carregando imagem: ./textures/musgoleft01.png
+Carregando imagem: ./textures/building01.png
+Carregando imagem: ./textures/buildingleft01.png
+Carregando imagem: ./textures/buildingright01.png
+Carregando imagem: ./textures/roof01.png
+Carregando imagem: ./textures/window01.png
+Carregando imagem: ./textures/building01.png
+Carregando imagem: ./textures/rock_e00.png
+Carregando imagem: ./textures/rock_d00.png
+Carregando imagem: ./textures/airnight00.png
+Carregando imagem: ./textures/airnight01.png
+Carregando imagem: ./textures/airnight02.png
+Carregando imagem: ./textures/airnight03.png
+Carregando imagem: ./textures/airnight04.png
+Carregando imagem: ./textures/airnight05.png
+Carregando imagem: ./textures/airnight06.png
+Carregando imagem: ./textures/airnight07.png
+Carregando imagem: ./textures/airnight08.png
+Carregando imagem: ./textures/airnight09.png
+
+Carregando objetos...
+Carregando imagem: ./textures/ol_00.png
+Carregando imagem: ./textures/ol_01.png
+Carregando imagem: ./textures/ol_02.png
+Carregando imagem: ./textures/ol_03.png
+Carregando imagem: ./textures/ol_04.png
+Carregando imagem: ./textures/ol_05.png
+Carregando imagem: ./textures/ol_06.png
+Carregando imagem: ./textures/ol_07.png
+Carregando imagem: ./textures/or_00.png
+Carregando imagem: ./textures/or_01.png
+Carregando imagem: ./textures/or_02.png
+Carregando imagem: ./textures/or_03.png
+Carregando imagem: ./textures/or_04.png
+Carregando imagem: ./textures/or_05.png
+Carregando imagem: ./textures/or_06.png
+Carregando imagem: ./textures/or_07.png
+Carregando imagem: ./textures/formiga01.png
+Carregando imagem: ./textures/formiga02.png
+Carregando imagem: ./textures/formiga03.png
+Carregando imagem: ./textures/formiga04.png
+Carregando imagem: ./textures/beetle_l00.png
+Carregando imagem: ./textures/beetle_l01.png
+Carregando imagem: ./textures/beetle_l02.png
+Carregando imagem: ./textures/beetle_r00.png
+Carregando imagem: ./textures/beetle_r01.png
+Carregando imagem: ./textures/beetle_r02.png
+Carregando imagem: ./textures/saw_d00.png
+Carregando imagem: ./textures/saw_d01.png
+Carregando imagem: ./textures/saw_d02.png
+Carregando imagem: ./textures/saw_d03.png
+Carregando imagem: ./textures/saw_u00.png
+Carregando imagem: ./textures/saw_u01.png
+Carregando imagem: ./textures/saw_u02.png
+Carregando imagem: ./textures/saw_u03.png
+Carregando imagem: ./textures/saw_l00.png
+Carregando imagem: ./textures/saw_l01.png
+Carregando imagem: ./textures/saw_l02.png
+Carregando imagem: ./textures/saw_l03.png
+Carregando imagem: ./textures/saw_r00.png
+Carregando imagem: ./textures/saw_r01.png
+Carregando imagem: ./textures/saw_r02.png
+Carregando imagem: ./textures/saw_r03.png
+Carregando imagem: ./textures/tux01.png
+Carregando imagem: ./textures/tux02.png
+Carregando imagem: ./textures/tux03.png
+Carregando imagem: ./textures/tux04.png
+Carregando imagem: ./textures/bee01.png
+Carregando imagem: ./textures/bee02.png
+Carregando imagem: ./textures/bee03.png
+Carregando imagem: ./textures/bee04.png
+Carregando imagem: ./textures/ent01.png
+Carregando imagem: ./textures/iron01.png
+Carregando imagem: ./textures/door.png
+Carregando imagem: ./textures/iron01.png
+Carregando imagem: ./textures/plataform01.png
+Carregando imagem: ./textures/plataform02.png
+Carregando imagem: ./textures/plataform03.png
+Carregando imagem: ./textures/plataform04.png
+Carregando imagem: ./textures/plataform05.png
+Carregando imagem: ./textures/plataform06.png
+Carregando imagem: ./textures/lava00.png
+Carregando imagem: ./textures/lava01.png
+Carregando imagem: ./textures/lava02.png
+Carregando imagem: ./textures/lava03.png
+Carregando imagem: ./textures/arrow.png
+
+Carregando mapas...
+0386F110 -> 0386F130 -> 0386F110 -> 0386F130
+0386F150 -> 0386F170 -> 0386F150 -> 0386F170
+0386F190 -> 0386F1B0 -> 0386F190 -> 0386F1B0
+0386F1D0 -> 0386F1F0 -> 0386F1D0 -> 0386F1F0
+0386F210 -> 0386F230 -> 0386F210 -> 0386F230
+0386F290 -> 0386F2B0 -> 0386F290 -> 0386F2B0
+0386F2F0 -> 0386F310 -> 0386F2F0 -> 0386F310
+0386F2D0 -> 0386F350 -> 0386F2D0 -> 0386F350
+0386F330 -> 0386F370 -> 0386F330 -> 0386F370
+0386F390 -> 0386F3B0 -> 0386F390 -> 0386F3B0
+0386F3D0 -> 0386F3F0 -> 0386F3D0 -> 0386F3F0
+0386F410 -> 0386F430 -> 0386F410 -> 0386F430
+0386F450 -> 0386F470 -> 0386F450 -> 0386F470
+0386F670 -> 0386F690 -> 0386F670 -> 0386F690
+0386F6B0 -> 0386F6D0 -> 0386F6B0 -> 0386F6D0
+0386F6F0 -> 0386F710 -> 0386F6F0 -> 0386F710
+0386F730 -> 0386F750 -> 0386F730 -> 0386F750
+0386F770 -> 0386F790 -> 0386F770 -> 0386F790
+0386F7D0 -> 0386F7F0 -> 0386F7D0 -> 0386F7F0
+0386F810 -> 0386F830 -> 0386F810 -> 0386F830
+0386F850 -> 03864070 -> 0386F850 -> 03864070
+038640B0 -> 038640D0 -> 038640B0 -> 038640D0
+03864090 -> 03864110 -> 03864090 -> 03864110
+038640F0 -> 03864130 -> 038640F0 -> 03864130
+03864150 -> 03864170 -> 03864150 -> 03864170
+03864190 -> 038641B0 -> 03864190 -> 038641B0
+038641D0 -> 038641F0 -> 038641D0 -> 038641F0
+03864210 -> 03864230 -> 03864210 -> 03864230
+03864250 -> 03864270 -> 03864250 -> 03864270
+03864290 -> 038642B0 -> 03864290 -> 038642B0
+038642D0 -> 038642F0 -> 038642D0 -> 038642F0
+Carregamento concluido.
+Carregando imagem: Menuproj.png
+Carregando imagem: Menuprojopcoes.png
+Carregando imagem: Menuprojvolume.png
