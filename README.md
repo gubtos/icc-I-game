@@ -16,6 +16,11 @@ Run "Jogo.exe" file.
 ## Built With
 * [SDL](www.libsdl.org) - The graphic library used
 
+## Screenshots
+![Menu](https://raw.githubusercontent.com/gubtos/icc-I-game/master/Screenshots/menu.PNG)
+![Map](https://raw.githubusercontent.com/gubtos/icc-I-game/master/Screenshots/map.PNG)
+![Level 2](https://raw.githubusercontent.com/gubtos/icc-I-game/master/Screenshots/level2.PNG)
+
 ## Authors
 
 * **Denilson Marques Junior** - *Software Development* - [denilsonm](https://github.com/denilsonm)
